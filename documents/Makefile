@@ -2,6 +2,10 @@
 RM = /bin/rm -fv
 PDFLATEX = pdflatex
 
+
+
+
+
 all: hogg_cube.pdf
 
 %.pdf: %.tex
