@@ -1,4 +1,4 @@
-
+'''
 
 This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -35,7 +35,7 @@ to-do
 - Figure out a physical "cubie" model to replace the "sticker" model.
 
 """
-
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
